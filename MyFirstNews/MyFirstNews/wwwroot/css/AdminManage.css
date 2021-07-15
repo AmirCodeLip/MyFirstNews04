@@ -1,0 +1,22 @@
+﻿.img-uploader {
+    padding: 4px 15px;
+    border: 1px dotted red;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.i-holder {
+    position: relative;
+}
+
+    .i-holder img {
+        width: 140px;
+        height: 140px;
+        border-radius: 10px;
+    }
+
+.remove-parent {
+    position: absolute;
+    cursor: pointer;
+    right: 10px;
+}
